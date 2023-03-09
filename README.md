@@ -5,7 +5,7 @@ This code is a Python script that uses the Matplotlib library to create a bar ch
 
 This code is a Python script that uses the Matplotlib library to create a bar chart and a line chart that compare the sales of different gaming platforms over time. The chart shows the total sales (in millions) of each platform in four different phases: "Mid 90s", "Early 2k", "Mid 2k", and "Mid 2010s".
 
-##Here's a step-by-step breakdown of what the code does:
+## Here's a step-by-step breakdown of what the code does:
 
 ### 1. Import the necessary library: 
 
